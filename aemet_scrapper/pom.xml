@@ -6,7 +6,7 @@
 
     <groupId>es.ulpgc.aemet.scrapper</groupId>
     <artifactId>aemet_scrapper</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.5</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
