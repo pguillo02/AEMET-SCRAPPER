@@ -1,2 +1,2 @@
 # AEMET-SCRAPPER
-Scrapper desarrollado para la asignatura DACD
+Simple scrapper developed for DACD. Obtain relevant climate information directly from AEMET DB
